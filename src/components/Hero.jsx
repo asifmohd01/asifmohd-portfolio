@@ -1,12 +1,9 @@
 "use client";
 
-import resume from "../assets/AsifMohd_Resume.pdf?url";
-import asifImage from "../assets/Asif_Image.jpeg";
-
 const Hero = () => {
   const downloadResume = () => {
     const link = document.createElement("a");
-    link.href = "/AsifMohd_Resume.pdf"; // path from public folder
+    link.href = "/AsifMohd_Resume.pdf"; // Path from public folder
     link.download = "Asif_Mohd_Resume.pdf";
     link.click();
   };
@@ -52,6 +49,7 @@ const Hero = () => {
               >
                 View GitHub
               </a>
+
               <a
                 href="https://www.linkedin.com/in/asifmohd01/"
                 target="_blank"
@@ -68,7 +66,7 @@ const Hero = () => {
             <div className="relative">
               <div className="w-80 h-80 rounded-full overflow-hidden shadow-xl hover:shadow-2xl transition-all duration-300 transform hover:scale-105 border-4 border-purple-200">
                 <img
-                  src={asifImage}
+                  src="/Asif_Image.jpeg" // Path from public folder
                   alt="Asif Mohd - Software Engineer"
                   className="w-full h-full object-cover"
                 />

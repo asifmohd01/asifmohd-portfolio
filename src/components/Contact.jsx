@@ -139,7 +139,7 @@ const Contact = () => {
                   <Github className="w-6 h-6" />
                 </a>
                 <a
-                  href="https://linkedin.com/in/asifmohd"
+                  href="https://www.linkedin.com/in/asifmohd01/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-12 h-12 bg-blue-600 text-white flex items-center justify-center shadow-lg hover:shadow-xl hover:bg-blue-700 transition-all duration-300 transform hover:scale-110 rounded-full"

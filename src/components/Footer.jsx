@@ -21,7 +21,7 @@ const Footer = () => {
     },
     {
       name: "LinkedIn",
-      href: "https://linkedin.com/in/asifmohd",
+      href: "https://www.linkedin.com/in/asifmohd01/",
       icon: <Linkedin className="w-5 h-5" />,
     },
     {

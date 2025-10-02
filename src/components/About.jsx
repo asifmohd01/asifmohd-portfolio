@@ -19,7 +19,7 @@ export default function About() {
             <p className="text-lg text-gray-600 leading-relaxed">
               I am a motivated Software Engineer and B.Tech graduate in
               Information Science and Engineering from University Visvesvaraya
-              College of Engineering, Bengaluru, with a CGPA of 7.8. I have a
+              College of Engineering, Bengaluru, with a CGPA of 7.98. I have a
               strong passion for developing optimized and user-friendly software
               solutions.
             </p>
